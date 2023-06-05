@@ -9,7 +9,7 @@ Hello! I'm Pablo Bonasera, a Full Stack Developer with a strong passion for lear
 I have been working as a Mentor at Microverse, where I code daily with developers from around the world. This experience has helped me develop strong skills in communication and teamwork. In June 2021, I began my coding journey by taking courses and have since made significant progress through dedication, overcoming challenges, and continually striving for self-improvement. After completing my Full Stack certification at Academlo Bootcamp, I start in Microverse.
 
 <div style="text-align: center;">
-  <img src="./img/nope.gif" style="width: 30%; margin-left: auto; margin-right: auto;" alt="Real Case">
+  <img src="./img/nope.gif" style="width: 50%; margin-left: auto; margin-right: auto;" alt="Real Case">
 </div>
 
 <div style="display: flex; align-items: flex-end;">
