@@ -1,6 +1,6 @@
 <div style="display: flex; align-items: flex-end;">
   <h1 style="flex-grow: 1; margin-bottom: 2rem; color: #0366d6;">  📖 **Pablo Bonasera's GitHub Profile** </h1>
-  <img src="./img/me.png" style="width: 20%; float: right;" alt="Descripción de la imagen">
+  <img src="./img/me.png" style="width: 10%; float: right;" alt="Descripción de la imagen">
 </div>
 
 Hello! I'm Pablo Bonasera, a Full Stack Developer with a strong passion for learning and attention to detail. I'm anentrepreneur at heart, always seeking to generate improvements based on the circumstances. I would love to be part of yourteam!
