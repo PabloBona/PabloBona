@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: flex-end;">
-  <h1 style="flex-grow: 1; margin-bottom: 2rem; color: #0366d6;">  📖 **Hi, I´m Pablo Bonasera ** </h1>
+  <h1 style="flex-grow: 1; margin-bottom: 2rem; color: #0366d6;">  📖 **Hi, I am Pablo Bonasera ** </h1>
   <img src="./img/me.png" style="width: 10%; float: right;" alt="My Photo">
 </div>
 
