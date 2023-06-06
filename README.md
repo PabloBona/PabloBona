@@ -1,9 +1,6 @@
-<div style="display: flex;">
-  <h1 style="flex-grow: 1; margin-bottom: 2rem; color: #0366d6;">  📖 **Hi, I am Pablo Bonasera ** </h1>
-  <div style="margin:0 auto;">
-    <img src="./img/me.png" style="width: 10%;" alt="My Photo">
-  </div>
-</div>
+|                                |                                                                                                                                                               |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 📖 **Hi, I am Pablo Bonasera** | <img src="./img/me.png" width="20%" alt="My Photo"> <img src="./img/me2.png" width="20%" alt="My Photo"> <img src="./img/me3.png" width="20%" alt="My Photo"> |
 
 Hello! I'm Pablo Bonasera, a Full Stack Developer with a strong passion for learning and attention to detail. I'm anentrepreneur at heart, always seeking to generate improvements based on the circumstances. I would love to be part of yourteam!
 
