@@ -1,4 +1,5 @@
-<img src="./img/banner.png" width="100%" alt="My Photo">
+<img src="./img/banner.png" width="100%" alt="My Photo"> 
+<br>
 Hello! I'm Pablo Bonasera, a Full Stack Developer with a strong passion for learning and attention to detail. I'm anentrepreneur at heart, always seeking to generate improvements based on the circumstances. I would love to be part of yourteam!
 
 👯 I’m currently learning ...
