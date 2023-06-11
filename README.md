@@ -39,3 +39,10 @@ I have been working as a Mentor at Microverse, where I code daily with developer
 I'm excited to collaborate on projects that make a positive impact on the environment and society. If you're looking for a dedicated and adaptable developer to join your team, I would be thrilled to be considered. Let's connect and create a better, more sustainable future together!
 
 Feel free to reach out to me via email at pablobonasera@gmail.com or connect with me on LinkedIn at [@PabloBona](https://www.linkedin.com/in/pablo-bonasera-142327257/)
+
+ 
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloBona&layout=donut-vertical)](https://github.com/PabloBona/github-readme-stats)
+
+
+
