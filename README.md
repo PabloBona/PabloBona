@@ -1,5 +1,7 @@
+
   <br />
     <hr style="margin: 2rem 0;" />
+    <br />
 <img src="./img/banner2.png" width="100%" alt="My Photo">
   <br />
     <hr style="margin: 2rem 0;" />
@@ -20,17 +22,24 @@ Let's create something amazing together! Feel free to reach out.
 - Express.js
 - MongoDB
 - Git
-- My Soft Skills
+
 <br />
 <hr />
 <div style="display: flex; align-items: flex-end;">
-  <h2 style="flex-grow: 1; margin: 2rem 0; color: #0366d6;">  ⚡ **Detail-oriented** </h2>
+  <h2 style="flex-grow: 1; margin: 2rem 0; color: #0366d6;">  ⚡ ** My Soft Skills: ** </h2>
 </div>
+
 - Strong problem-solving skills
 - Excellent communication
 - Team player
 - Adaptable and quick learner
-- Unique Selling Proposition (USP)
+
+<br />
+<hr />
+<div style="display: flex; align-items: flex-end;">
+  <h2 style="flex-grow: 1; margin: 2rem 0; color: #0366d6;">  📊 ** Unique Selling Proposition (USP) ** </h2>
+</div>
+
 - As a Full Stack Developer, I bring a unique blend of technical skills and professional experience. With a background as a legal assistant, I have developed a strong work ethic, perseverance, and an analytical mindset. These skills, combined with my passion for continuous learning, enable me to tackle complex coding challenges effectively and efficiently.
 <br />
 <hr />
