@@ -6,7 +6,7 @@
 Hello! I'm Pablo Bonasera, a Full Stack Developer with a strong passion for learning and attention to detail. I'm anentrepreneur at heart, always seeking to generate improvements based on the circumstances. I would love to be part of yourteam!
 
 👯 I’m currently learning ...
-I have been working as a Mentor at Microverse, where I code daily with developers from around the world. This experience has helped me develop strong skills in communication and teamwork. In June 2021, I began my coding journey by taking courses and have since made significant progress through dedication, overcoming challenges, and continually striving for self-improvement. After completing my Full Stack certification at Academlo Bootcamp, I start in Microverse.
+I have been working as a Mentor at Microverse, where I code daily with developers from around the world. This experience has helped me develop strong skills in communication and teamwork. In June 2021, I began my coding journey by taking courses and have since made significant progress through dedication, overcoming challenges, and continually striving for self-improvement. After completing my Full Stack certification at Academlo Bootcamp, I started in Microverse.
 
 <hr style="margin: 2rem 0;" />
 <div style="display: flex; align-items: flex-end;">
