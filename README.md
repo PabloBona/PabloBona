@@ -1,6 +1,4 @@
-
-  <br />
-    <hr style="margin: 2rem 0;" />
+ <hr style="margin: 2rem 0;" />
     <br />
 <img src="./img/banner2.png" width="100%" alt="My Photo">
   <br />
