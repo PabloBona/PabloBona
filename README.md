@@ -52,8 +52,10 @@ I'm excited to collaborate on projects that make a positive impact on the enviro
   <br />
     <hr style="margin: 2rem 0;" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloBona&layout=donut-vertical)](https://github.com/PabloBona/github-readme-stats)
-<br />
+ <div align="center">
+     <img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloBona&theme=react&show_icons=true&layout=compact&langs_count=8&card_width=350"/>           &nbsp;
+     <img width="450" src="https://github-readme-stats.vercel.app/api?username=PabloBona&theme=react&show_icons=true&layout=compact&date_format=M%20j%5B%2C%20Y%5D"/>
+  <div>
 
 <hr style="margin: 2rem 0;" />
 
